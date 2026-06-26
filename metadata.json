@@ -1,0 +1,6 @@
+{
+  "name": "Smart City AI Platform",
+  "description": "Autonomous enterprise-grade urban intelligence platform for traffic intelligence, pollution tracking, public transport, emergency dispatch, and citizen services with server-side AI features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
